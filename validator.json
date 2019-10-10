@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "location": "body",
+      "msg": "Invalid value",
+      "param": "username"
+    }
+  ]
+}

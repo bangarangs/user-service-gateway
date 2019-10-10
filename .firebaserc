@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "user-service-gateway",
+    "user-service-gateway": "user-service-gateway"
+  }
+}
